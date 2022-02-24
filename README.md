@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Kevin Ye, from Hungary, Budapest
-- 👀 I’m interested in everything related to Programming 
 - 📕 I’m currently learning CS & Engineering at University of Szeged
